@@ -53,32 +53,32 @@ The following variables are included in the dataset:
 * Body Gyro Jerk Mag-mean(): mean of human body angular jerk (vector magnitude)
 * Body Gyro Jerk Mag-std(): std. dev. of human body angular jerk (vector magnitude)
 * fft Body Accel-mean()-X: mean of FFT of human body acceleration in x direction
-* fft Body Accel-mean()-Y
-* fft Body Accel-mean()-Z
-* fft Body Accel-std()-X
-* fft Body Accel-std()-Y
-* fft Body Accel-std()-Z
-* fft Body Jerk-mean()-X
-* fft Body Jerk-mean()-Y
-* fft Body Jerk-mean()-Z
-* fft Body Jerk-std()-X
-* fft Body Jerk-std()-Y
-* fft Body Jerk-std()-Z
-* fft Body Gyro-mean()-X
-* fft Body Gyro-mean()-Y
-* fft Body Gyro-mean()-Z
-* fft Body Gyro-std()-X
-* fft Body Gyro-std()-Y
-* fft Body Gyro-std()-Z
-* fft Body Accel Mag-mean()
-* fft Body Accel Mag-std()
-* fft Body Jerk Mag-mean()
-* fft Body Jerk Mag-std()
-* fft Body Gyro Mag-mean()
-* fft Body Gyro Mag-std()
-* fft Body Gyro Jerk Mag-mean()
-* fft Body Gyro Jerk Mag-std()
-* activity
-* subjects
+* fft Body Accel-mean()-Y: mean of FFT of human body acceleration in y direction
+* fft Body Accel-mean()-Z: mean of FFT of human body acceleration in z direction
+* fft Body Accel-std()-X: std. dev. of FFT of human body acceleration in x direction
+* fft Body Accel-std()-Y: std. dev. of FFT of human body acceleration in y direction
+* fft Body Accel-std()-Z: std. dev. of FFT of human body acceleration in z direction
+* fft Body Jerk-mean()-X: mean of FFT of human body jerk in x direction
+* fft Body Jerk-mean()-Y: mean of FFT of human body jerk in y direction
+* fft Body Jerk-mean()-Z: mean of FFT of human body jerk in z direction
+* fft Body Jerk-std()-X: std. dev. of FFT of human body jerk in x direction
+* fft Body Jerk-std()-Y: std. dev. of FFT of human body jerk in y direction
+* fft Body Jerk-std()-Z: std. dev. of FFT of human body jerk in z direction
+* fft Body Gyro-mean()-X: mean of FFT of human body angular acceleration in x direction
+* fft Body Gyro-mean()-Y: mean of FFT of human body angular acceleration in y direction
+* fft Body Gyro-mean()-Z: mean of FFT of human body angular acceleration in z direction
+* fft Body Gyro-std()-X: std. dev. of FFT of human body angular acceleration in x direction
+* fft Body Gyro-std()-Y: std. dev. of FFT of human body angular acceleration in y direction
+* fft Body Gyro-std()-Z: std. dev. of FFT of human body angular acceleration in z direction
+* fft Body Accel Mag-mean(): mean of FFT of human body acceleration (vector magnitude)
+* fft Body Accel Mag-std(): std. dev. of FFT of human body acceleration (vector magnitude)
+* fft Body Jerk Mag-mean(): mean of FFT of human body jerk (vector magnitude)
+* fft Body Jerk Mag-std(): std. dev. of FFT of human body jerk (vector magnitude)
+* fft Body Gyro Mag-mean(): mean of FFT of human body angular acceleration (vector magnitude)
+* fft Body Gyro Mag-std(): std. dev. of FFT of human body angular acceleration (vector magnitude)
+* fft Body Gyro Jerk Mag-mean(): mean of FFT of human body angular jerk (vector magnitude)
+* fft Body Gyro Jerk Mag-std(): std. dev. of FFT of human body angular jerk (vector magnitude)
+* activity: which of six activities performed by subject
+* subjects: participant code (1-30)
 
 
