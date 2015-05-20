@@ -21,38 +21,38 @@ The following variables are included in the dataset:
 * Gravity Accel-mean()-X: mean of gravity acceleration in x direction
 * Gravity Accel-mean()-Y: mean of gravity acceleration in y direction
 * Gravity Accel-mean()-Z: mean of gravity acceleration in z direction
-* Gravity Accel-std()-X
-* Gravity Accel-std()-Y
-* Gravity Accel-std()-Z
-* Body Jerk-mean()-X
-* Body Jerk-mean()-Y
-* Body Jerk-mean()-Z
-* Body Jerk-std()-X
-* Body Jerk-std()-Y
-* Body Jerk-std()-Z
-* Body Gyro-mean()-X
-* Body Gyro-mean()-Y
-* Body Gyro-mean()-Z
-* Body Gyro-std()-X
-* Body Gyro-std()-Y
-* Body Gyro-std()-Z
-* Body Gyro Jerk-mean()-X
-* Body Gyro Jerk-mean()-Y
-* Body Gyro Jerk-mean()-Z
-* Body Gyro Jerk-std()-X
-* Body Gyro Jerk-std()-Y
-* Body Gyro Jerk-std()-Z
-* Body Accel Mag-mean()
-* Body Accel Mag-std()
-* Gravity Accel Mag-mean()
-* Gravity Accel Mag-std()
-* Body Jerk Mag-mean()
-* Body Jerk Mag-std()
-* Body Gyro Mag-mean()
-* Body Gyro Mag-std()
-* Body Gyro Jerk Mag-mean()
-* Body Gyro Jerk Mag-std()
-* fft Body Accel-mean()-X
+* Gravity Accel-std()-X: std. dev. of gravity acceleration in x direction
+* Gravity Accel-std()-Y: std. dev. of gravity acceleration in y direction
+* Gravity Accel-std()-Z: std. dev. of gravity acceleration in z direction
+* Body Jerk-mean()-X: mean of human body jerk in x direction
+* Body Jerk-mean()-Y: mean of human body jerk in y direction
+* Body Jerk-mean()-Z: mean of human body jerk in z direction
+* Body Jerk-std()-X: std. dev. of human body jerk in x direction
+* Body Jerk-std()-Y: std. dev. of human body jerk in y direction
+* Body Jerk-std()-Z: std. dev. of human body jerk in z direction
+* Body Gyro-mean()-X: mean of human body angular acceleration in x direction
+* Body Gyro-mean()-Y: mean of human body angular acceleration in y direction
+* Body Gyro-mean()-Z: mean of human body angular acceleration in z direction
+* Body Gyro-std()-X: std. dev. of human body angular acceleration in x direction
+* Body Gyro-std()-Y: std. dev. of human body angular acceleration in y direction
+* Body Gyro-std()-Z: std. dev. of human body angular acceleration in z direction
+* Body Gyro Jerk-mean()-X: mean of human body angular jerk in x direction
+* Body Gyro Jerk-mean()-Y: mean of human body angular jerk in y direction
+* Body Gyro Jerk-mean()-Z: mean of human body angular jerk in z direction
+* Body Gyro Jerk-std()-X: std. dev. of human body angular jerk in x direction
+* Body Gyro Jerk-std()-Y: std. dev. of human body angular jerk in y direction
+* Body Gyro Jerk-std()-Z: std. dev. of human body angular jerk in z direction
+* Body Accel Mag-mean(): mean of human body acceleration (vector magnitude)
+* Body Accel Mag-std(): std. dev. of human body acceleration (vector magnitude)
+* Gravity Accel Mag-mean(): mean of gravity acceleration (vector magnitude)
+* Gravity Accel Mag-std(): std. dev. of gravity acceleration (vector magnitude)
+* Body Jerk Mag-mean(): mean of human body jerk (vector magnitude)
+* Body Jerk Mag-std(): std. dev. of human body jerk (vector magnitude)
+* Body Gyro Mag-mean(): mean of human body angular acceleration (vector magnitude)
+* Body Gyro Mag-std(): std. dev. of human body angular acceleration (vector magnitude)
+* Body Gyro Jerk Mag-mean(): mean of human body angular jerk (vector magnitude)
+* Body Gyro Jerk Mag-std(): std. dev. of human body angular jerk (vector magnitude)
+* fft Body Accel-mean()-X: mean of FFT of human body acceleration in x direction
 * fft Body Accel-mean()-Y
 * fft Body Accel-mean()-Z
 * fft Body Accel-std()-X
